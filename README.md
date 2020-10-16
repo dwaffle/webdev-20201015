@@ -10,3 +10,4 @@ Each exercise should be an individual commit clearly labelling which exercise it
 ## Comments
 
 > Use this section to add comments and instructions for the instructor.
+Doug Waffle
